@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resep Masak</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="card_view">Card View</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+</resources>
